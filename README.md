@@ -1,9 +1,9 @@
 # HKMA_API
 Import Data From HKMA API
 
-I want to try to extract the data from HKMA API and convert the data format into dataframe so that I can do some baisc EDA on the data and plot the data to get some insights
+I want to try to extract the data from HKMA API and convert the data format into dataframe so that I can do some baisc EDA on the data and plot the data to get some insights.
 
-Here are the code for the project
+Here is the code for the project
 
 ```python
 
